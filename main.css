@@ -1,0 +1,28 @@
+html{
+    background-image: linear-gradient(to bottom, rgb(101, 216, 255), rgb(221, 233, 233));
+}
+#Sec1{
+    text-align: center;
+    padding: 1px;
+    background-color: deepskyblue;
+    li{
+        display: inline;
+    }
+    a{
+        font-size: x-large;
+        padding : 20px;
+        color: white;
+        font-weight: 900;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+}
+
+#Sec2{
+    text-align: center;
+}
+#Sec3{
+    text-align: center;
+}
+#Sec4{
+    text-align: center;
+}
